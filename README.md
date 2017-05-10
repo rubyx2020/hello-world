@@ -1,5 +1,4 @@
-# hello-world
-just checking this out
-this is a bit about myself
-commit message: i added a bit about myself
-yeah baby
+# Why, hello there!!!
+## How you doin and how did you find me?
+Was trying to hide, but you are such a sleuth (yeah, **u** and **h** were intentional).
+
